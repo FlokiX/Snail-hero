@@ -1,0 +1,34 @@
+﻿  MapManager.cpp
+C:\Users\zikol\OneDrive\Документы\проекты_Visual\SFML проекты\Snail-heros\MapManager.cpp(28,13): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\zikol\OneDrive\Документы\проекты_Visual\SFML проекты\Snail-heros\MapManager.cpp(29,14): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\zikol\OneDrive\Документы\проекты_Visual\SFML проекты\Snail-heros\MapManager.cpp(35,34): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\zikol\OneDrive\Документы\проекты_Visual\SFML проекты\Snail-heros\MapManager.cpp(39,34): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\zikol\OneDrive\Документы\проекты_Visual\SFML проекты\Snail-heros\MapManager.cpp(43,34): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\zikol\OneDrive\Документы\проекты_Visual\SFML проекты\Snail-heros\MapManager.cpp(47,34): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Player.cpp
+  Создание кода...
+  Snail-heros.vcxproj -> C:\Users\zikol\OneDrive\Документы\проекты_Visual\SFML проекты\Snail-heros\x64\Debug\Snail-heros.exe
